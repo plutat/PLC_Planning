@@ -1,0 +1,116 @@
+<root>
+<bus type="dict">
+<n0 type="dict">
+<name type="str">0</name>
+</n0>
+<n1 type="dict">
+<name type="str">1</name>
+</n1>
+<n2 type="dict">
+<name type="str">2</name>
+</n2>
+<n3 type="dict">
+<name type="str">3</name>
+</n3>
+<n4 type="dict">
+<name type="str">4</name>
+</n4>
+<n5 type="dict">
+<name type="str">5</name>
+</n5>
+<n6 type="dict">
+<name type="str">6</name>
+</n6>
+<n7 type="dict">
+<name type="str">7</name>
+</n7>
+<n8 type="dict">
+<name type="str">8</name>
+</n8>
+<!--<n9 type="dict">
+<name type="str">9</name>
+</n9>-->
+</bus>
+
+<GeneratedCoordinates type="dict">
+<n0 type="dict">
+<x type="float">0</x>
+<y type="float">0</y>
+</n0>
+<n1 type="dict">
+<x type="float">-60</x>
+<y type="float">0</y>
+</n1>
+<n2 type="dict">
+<x type="float">-50</x>
+<y type="float">0</y>
+</n2>
+<n3 type="dict">
+<x type="float">-100</x>
+<y type="float">0</y>
+</n3>
+<n4 type="dict">
+<x type="float">-60</x>
+<y type="float">0</y>
+</n4>
+<n5 type="dict">
+<x type="float">-50</x>
+<y type="float">0</y>
+</n5>
+<n6 type="dict">
+<x type="float">0</x>
+<y type="float">300</y>
+</n6>
+<n7 type="dict">
+<x type="float">100</x>
+<y type="float">300</y>
+</n7>
+<n8 type="dict">
+<x type="float">150</x>
+<y type="float">300</y>
+</n8>
+<!--<n9 type="dict">
+<x type="float">-1000</x>
+<y type="float">300</y>
+</n9>-->
+</GeneratedCoordinates>
+<line type="dict">
+<l0 type="dict">
+<from_bus type="int">0</from_bus>
+<to_bus type="int">1</to_bus>
+</l0>
+<l1 type="dict">
+<from_bus type="int">0</from_bus>
+<to_bus type="int">2</to_bus>
+</l1>
+<l2 type="dict">
+<from_bus type="int">0</from_bus>
+<to_bus type="int">3</to_bus>
+</l2>
+<l3 type="dict">
+<from_bus type="int">0</from_bus>
+<to_bus type="int">4</to_bus>
+</l3>
+<l4 type="dict">
+<from_bus type="int">0</from_bus>
+<to_bus type="int">5</to_bus>
+</l4>
+<l5 type="dict">
+<from_bus type="int">0</from_bus>
+<to_bus type="int">6</to_bus>
+</l5>
+<l6 type="dict">
+<from_bus type="int">6</from_bus>
+<to_bus type="int">7</to_bus>
+</l6>
+<l7 type="dict">
+<from_bus type="int">6</from_bus>
+<to_bus type="int">8</to_bus>
+</l7>
+<!-- <l8 type="dict">
+<from_bus type="int">6</from_bus>
+<to_bus type="int">9</to_bus>
+</l8> -->
+</line>
+<repeaters type="dict"> </repeaters>
+</root>
